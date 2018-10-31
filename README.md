@@ -1,8 +1,9 @@
 # hosanna
 
-A new Flutter project.
+Bienvenidos a HFlutter en Español.
 
-## Getting Started
+## Bloqueo de giro en pantalla
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## Copia de repositorio
+git clone -b giroPantallaBloqueo
+
